@@ -5,11 +5,11 @@ import LoginPage from 'views/LoginPage/LoginPage.jsx';
 import HomePage from 'views/LandingPage/LandingPage.jsx';
 
 var indexRoutes = [
-	{ path: '/landing-page', name: 'LandingPage', component: LandingPage },
-	{ path: '/profile-page', name: 'ProfilePage', component: ProfilePage },
-	{ path: '/login-page', name: 'LoginPage', component: LoginPage },
-	{ path: '/component-page', name: 'Components', component: Components },
-	{ path: '/', name: 'HomePage', component: HomePage },
+	{ path: 'landing-page', name: 'LandingPage', component: LandingPage },
+	{ path: 'profile-page', name: 'ProfilePage', component: ProfilePage },
+	{ path: 'login-page', name: 'LoginPage', component: LoginPage },
+	{ path: 'component-page', name: 'Components', component: Components },
+	{ path: '', name: 'HomePage', component: HomePage },
 ];
 
 export default indexRoutes;
