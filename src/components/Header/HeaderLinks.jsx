@@ -22,7 +22,7 @@ function HeaderLinks({ ...props }) {
 	const { classes } = props;
 	return (
 		<List className={classes.list}>
-			<ListItem className={classes.listItem}>
+			{/*			<ListItem className={classes.listItem}>
 				<CustomDropdown
 					noLiPadding
 					buttonText="Components"
@@ -44,8 +44,8 @@ function HeaderLinks({ ...props }) {
 						</a>,
 					]}
 				/>
-			</ListItem>
-			<ListItem className={classes.listItem}>
+				</ListItem> */}
+			{/*}		<ListItem className={classes.listItem}>
 				<Button
 					href="https://www.creative-tim.com/product/material-kit-react"
 					color="transparent"
@@ -54,7 +54,7 @@ function HeaderLinks({ ...props }) {
 				>
 					<CloudDownload className={classes.icons} /> Download
 				</Button>
-			</ListItem>
+			</ListItem> */}
 			<ListItem className={classes.listItem}>
 				<Tooltip
 					id="instagram-twitter"
@@ -63,7 +63,7 @@ function HeaderLinks({ ...props }) {
 					classes={{ tooltip: classes.tooltip }}
 				>
 					<Button
-						href="https://twitter.com/CreativeTim"
+						href="https://twitter.com/#!/CSDAMass"
 						target="_blank"
 						color="transparent"
 						className={classes.navLink}
@@ -98,7 +98,7 @@ function HeaderLinks({ ...props }) {
 				>
 					<Button
 						color="transparent"
-						href="https://www.instagram.com/CreativeTimOfficial"
+						href="https://www.instagram.com/"
 						target="_blank"
 						className={classes.navLink}
 					>

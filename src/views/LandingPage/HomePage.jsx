@@ -52,15 +52,16 @@ class HomePage extends React.Component {
 									create the first impression.
 								</h4>
 								<br />
-								<Button
+								{/*}	<Button
 									color="danger"
 									size="lg"
 									href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 									target="_blank"
 									rel="noopener noreferrer"
 								>
-									<i className="fas fa-play" />Watch video
-								</Button>
+									<i className="fas fa-play" />
+									Watch video
+								</Button> */}
 							</GridItem>
 						</GridContainer>
 					</div>
