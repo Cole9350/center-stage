@@ -9,7 +9,6 @@ import indexRoutes from 'routes/index.jsx';
 import 'assets/scss/material-kit-react.css?v=1.1.0';
 
 var hist = createBrowserHistory();
-
 ReactDOM.render(
 	<BrowserRouter basename={process.env.PUBLIC_URL}>
 		<Switch>
