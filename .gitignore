@@ -3,3 +3,4 @@ build
 src/assets/img/high
 src/assets/img/bak
 .netlify
+.vscode

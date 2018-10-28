@@ -1,7 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import LandingPage from './views/LandingPage/LandingPage.jsx';
+import { createBrowserHistory } from 'history';
+import { Router, Route, Switch } from 'react-router';
+import LandingPage from 'views/LandingPage/LandingPage.jsx';
+var hist = createBrowserHistory();
 
-import 'assets/scss/material-kit-react.css?v=1.1.0';
-
-ReactDOM.render(<LandingPage />, document.getElementById('root'));
+ReactDOM.render(
+	<Router history={hist}>
+		<LandingPage />
+	</Router>,
+	document.getElementById('root')
+);
