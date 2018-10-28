@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.fbdd1229.css",
   "main.css.map": "static/css/main.fbdd1229.css.map",
-  "main.js": "static/js/main.de280f15.js",
-  "main.js.map": "static/js/main.de280f15.js.map",
+  "main.js": "static/js/main.cc0d28ff.js",
+  "main.js.map": "static/js/main.cc0d28ff.js.map",
   "static\\media\\CSDA-Outreach-Logo.jpg": "static/media/CSDA-Outreach-Logo.e6a839b9.jpg",
   "static\\media\\IMG_9890.jpg": "static/media/IMG_9890.5a2cb3ca.jpg",
   "static\\media\\IMG_9911.jpg": "static/media/IMG_9911.233748ee.jpg",
@@ -12,8 +12,5 @@
   "static\\media\\IMG_9942.jpg": "static/media/IMG_9942.6bb5a193.jpg",
   "static\\media\\IMG_9950.jpg": "static/media/IMG_9950.b8216c90.jpg",
   "static\\media\\IMG_9963.jpg": "static/media/IMG_9963.f8a88788.jpg",
-  "static\\media\\IMG_9975.jpg": "static/media/IMG_9975.c7a48eec.jpg",
-  "static\\media\\avatar.jpg": "static/media/avatar.f1d71f77.jpg",
-  "static\\media\\christian.jpg": "static/media/christian.56633ed3.jpg",
-  "static\\media\\kendall.jpg": "static/media/kendall.e0508cc9.jpg"
+  "static\\media\\IMG_9975.jpg": "static/media/IMG_9975.c7a48eec.jpg"
 }
